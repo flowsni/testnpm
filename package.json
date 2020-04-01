@@ -10,9 +10,5 @@
   "license": "ISC",
   "devDependencies": {
     "lerna": "^3.20.2"
-  },
-  "dependencies": {
-    "testn": "file:packages/testn",
-    "testh": "file:packages/testh"
   }
 }
