@@ -1,6 +1,6 @@
 {
   "name": "@flowsni/testshit1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@flowsni/testshit2": "^1.0.3"
+    "@flowsni/testshit2": "^1.0.4"
   }
 }
