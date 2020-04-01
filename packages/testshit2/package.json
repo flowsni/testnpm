@@ -1,5 +1,5 @@
 {
-  "name": "testshit2",
+  "name": "@flowsni/testshit2",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "testshit1": "^1.0.3"
+    "@flowsni/testshit1": "^1.0.3"
   }
 }
