@@ -1,6 +1,6 @@
 {
   "name": "testh",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "testn": "^1.0.0"
+    "testn": "^0.0.1"
   }
 }
