@@ -1,6 +1,6 @@
 {
   "name": "@sometest/testshit2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sometest/testshit1": "^1.0.5"
+    "@sometest/testshit1": "^1.0.6"
   },
   "gitHead": "e59bd1f42578033435943981fb7e51bd65e42e4d"
 }
