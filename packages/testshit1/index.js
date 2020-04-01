@@ -1,3 +1,3 @@
-const test = require('testn')
+const testshit2 = require('testshit2')
 
-console.log(test())
+console.log(testshit2())
